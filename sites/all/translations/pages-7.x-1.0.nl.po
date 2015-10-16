@@ -1,0 +1,20 @@
+# Dutch translation of Pages (7.x-1.0)
+# Copyright (c) 2013 by the Dutch translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Pages (7.x-1.0)\n"
+"POT-Creation-Date: 2013-04-05 00:11+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Pages"
+msgstr "Pagina's"
+msgid "Content"
+msgstr "Inhoud"
+msgid "Create pages in the simplest way."
+msgstr "Maak pagina's in de meest eenvoudige manier."

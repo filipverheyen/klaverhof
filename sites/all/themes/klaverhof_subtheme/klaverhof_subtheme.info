@@ -1,0 +1,27 @@
+name = klaverhof_subtheme
+description = This is a sub-theme of theme omega
+core = 7.x
+base theme = omega
+
+; ========================================
+; Regions
+; ========================================
+regions[branding] = Branding
+regions[header] = Header
+regions[navigation] = Navigation
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[footer] = Footer
+regions[subfooter] = Subfooter
+
+; ========================================
+; Stylesheets
+; ========================================
+stylesheets[all][] = assets/build/css/main.css
+stylesheets[all][] = assets/build/css/font-awesome.css
+
+; ========================================
+; Scripts
+; ========================================
+scripts[] = assets/src/js/main.js
